@@ -1,0 +1,7 @@
+tag_name = "Prepod"
+ebs_size = "1"
+ebs_type = "gp3"
+instance_type = "t3.micro"
+ami_name = "ami-08405c1fd036ae325"
+device_name = "/dev/sdf"
+volume = "Test"
