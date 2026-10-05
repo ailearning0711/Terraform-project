@@ -9,7 +9,6 @@ variable "mytag" {}
 variable "amiid" {}
 
 variable "machinetype" {}
-
 variable "keyname" {}
 variable "device_name" {}
 variable "volume" {}

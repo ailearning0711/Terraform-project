@@ -71,7 +71,7 @@ resource "aws_route_table_association" "routeassociate_2" {
 
 }
 
-#Below is the custom created table.
+#Below is the custom default created table.
 /*
 resource "aws_route_table_association" "routeassociate_2" {
     route_table_id = aws_route_table.terra_rt1.id
